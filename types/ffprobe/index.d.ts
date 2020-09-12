@@ -62,6 +62,7 @@ declare namespace getInfo {
             language?: string;
             handler_name: string;
             creation_time?: string;
+            title?: string;
         };
     }
 
